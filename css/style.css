@@ -899,6 +899,7 @@ form {
 .questions__text:focus .questions__item  {
   color: var(--orange);
   border-color: var(--orange);
+  background-color: #ffffff;
   border-left: none;
   border-right: none;
 }
